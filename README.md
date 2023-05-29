@@ -10,7 +10,7 @@ The dataset was downloaded from Kaggle  (https://www.kaggle.com/datasets/fedesor
 
 * Features 
 
-gender, age, various diseases, and smoking status
+gender, age, hypertension, heart diseases, ever_married, work_type, Residence_type, avg_glucose_level, bmi and smoking status
 
 * Modelling
 
